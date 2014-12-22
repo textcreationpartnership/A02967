@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A letter written by the King of Nauarre vnto the French King concerning his innocencie against the s
+
 #####Body#####
-A letter written by the King of Nauarre vnto the French King concerning his innocencie against the s
+
+1. A Letter written by the King of NAVARRE vnto the French King, concerning his innocencie, againſt the ſlaunders of his aduerſaries. Truely tranſlated out of French. 1585.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
